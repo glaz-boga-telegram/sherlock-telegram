@@ -13,7 +13,7 @@
 
 <!-- OSINT Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glaz-boga-telegram/sherlock-telegram/main/1759336503.png" alt="Digital Footprint Analysis" width="25%">
+  <img src="https://raw.githubusercontent.com/glaz-boga-telegram/sherlock-bot/main/images.png" alt="Digital Footprint Analysis" width="25%">
 </div>
 
 # 🔎 Шерлок бот: профессиональный OSINT-инструмент для цифровых следов
@@ -101,7 +101,7 @@
 
 **Результат:** Профессиональный отчет, содержащий только проверенную информацию из открытых источников, позволяющий принять обоснованное решение.
 
-![Анализ данных](https://raw.githubusercontent.com/glaz-boga-telegram/sherlock-bot/main/images.png)
+![Анализ данных](https://raw.githubusercontent.com/glaz-boga-telegram/sherlock-telegram/main/1759336503.png)
 
 *Пример структурированного отчета о цифровом следе*
 
